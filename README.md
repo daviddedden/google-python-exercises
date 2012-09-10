@@ -1,4 +1,4 @@
 google-python-exercises
 =======================
 
-My set of solutions for the Google Python Class.
+My solutions for the Google Python Class problem sets.
