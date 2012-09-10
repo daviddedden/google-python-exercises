@@ -63,8 +63,6 @@ def sort_last(tuples):
   def MyFn(s):
   	#print s[len(s)-1]
   	return s[len(s)-1]
-  #sorted(tuples, key=MyFn)
-  #tuples.sort()
   return sorted(tuples, key=MyFn)
 
 
